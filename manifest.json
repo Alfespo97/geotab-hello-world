@@ -4,9 +4,9 @@
     "version": "1.0",
     "items": [
       {
-        "url": "addinMS.html",
-        "javascript": "myaddin.js",
-        "icon": "icon.png",
+        "url": "addin.html",
+        "javascript": "addin.js",
+        
         "menuName": {
           "en": "Vehicle Data from API"
         },
