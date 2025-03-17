@@ -1,0 +1,19 @@
+{
+    "name": "My External API Add-In",
+    "supportEmail": "ea.adinolfi@minervas.it",
+    "version": "1.0",
+    "items": [
+      {
+        "url": "addinMS.html",
+        "javascript": "myaddin.js",
+        "icon": "icon.png",
+        "menuName": {
+          "en": "Vehicle Data from API"
+        },
+        "entityType": "Device",
+        "path": "Device",
+        "hasPermission": true
+      }
+    ]
+  }
+  
